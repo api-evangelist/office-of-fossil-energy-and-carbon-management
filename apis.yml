@@ -7,8 +7,7 @@ apis:
 
       office-of-fossil-energy-and-carbon-management:office-of-fossil-energy-and-carbon-management
     name: Office of Fossil Energy and Carbon Management
-    tags:
-      - API
+    tags: []
     humanURL: https://www.energy.gov/fe
     properties:
       - url: https://www.energy.gov/fe
