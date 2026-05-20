@@ -2,6 +2,9 @@ aid: office-of-fossil-energy-and-carbon-management
 url: >2-
 
   https://raw.githubusercontent.com/api-evangelist/office-of-fossil-energy-and-carbon-management/refs/heads/main/apis.yml
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/showcase/fecmgov
 apis:
   - aid: >2-
 
