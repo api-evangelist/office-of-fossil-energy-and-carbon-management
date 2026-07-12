@@ -3,6 +3,8 @@ url: >2-
 
   https://raw.githubusercontent.com/api-evangelist/office-of-fossil-energy-and-carbon-management/refs/heads/main/apis.yml
 common:
+  - type: DomainSecurity
+    url: security/office-of-fossil-energy-and-carbon-management-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/showcase/fecmgov
 apis:
