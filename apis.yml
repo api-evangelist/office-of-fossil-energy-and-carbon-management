@@ -25,6 +25,8 @@ apis:
       committed to improving the economic ...
 name: Office of Fossil Energy and Carbon Management
 tags:
+  - Federal-Government
+tags_raw:
   - Federal Government
 kind: contract
 accessModel:
