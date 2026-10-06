@@ -3,6 +3,10 @@ url: >2-
 
   https://raw.githubusercontent.com/api-evangelist/office-of-fossil-energy-and-carbon-management/refs/heads/main/apis.yml
 common:
+  - url: https://www.energy.gov/newsroom
+    type: Blog
+  - url: https://www.energy.gov/rss/energygov/2193718
+    type: BlogRSS
   - type: DomainSecurity
     url: security/office-of-fossil-energy-and-carbon-management-domain-security.yml
   - type: LinkedIn
@@ -56,7 +60,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/office-of-fossil-energy-and-carbon-management.png
 access: 3rd-Party
 created: '2024-12-03'
-modified: '2026-04-28'
+modified: '2026-10-06'
 position: Consuming
 description: >-
   The Office of Fossil Energy and Carbon Management is a division of the U.S. Department
