@@ -1,4 +1,4 @@
-# Office of Fossil Energy and Carbon Management (office-of-fossil-energy-and-carbon-management)
+# Office of Fossil Energy and Carbon Management
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,50 +64,66 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-The Office of Fossil Energy and Carbon Management is a division of the U.S. Department of Energy that is focused on addressing the challenges of reducing greenhouse gas emissions and advancing clean energy technologies. The office works to develop and deploy technologies that can capture, store, and utilize carbon dioxide emissions from fossil fuel sources, such as coal and natural gas. By investing in research, development, and demonstration projects, the office aims to accelerate the transition to a low-carbon economy and mitigate the impacts of climate change. Additionally, the office plays a key role in advancing energy security and promoting economic growth by ensuring the responsible and efficient use of fossil energy resources.
+The Office of Fossil Energy and Carbon Management is a division of the U.S. Department of Energy that is focused on addressing the challenges of reducing greenhouse gas emissions and advancing clean energy technologies. The office works to develop and deploy technologies that can capture, store, and utilize carbon dioxide emissions from fossil fuel sources, such as coal and natural gas.
 
-**URL:** [Visit APIs.json URL](
-https://raw.githubusercontent.com/api-evangelist/office-of-fossil-energy-and-carbon-management/refs/heads/main/apis.yml)
+**Areas:** Federal Government
 
-## Scope
+## Office of Fossil Energy and Carbon Management on APIs.io
 
-- **Type:** Contract 
-- **Position:** Consuming 
-- **Access:** 3rd-Party 
+Everything profiled for Office of Fossil Energy and Carbon Management is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/office-of-fossil-energy-and-carbon-management/](https://apis.io/providers/office-of-fossil-energy-and-carbon-management/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Federal Government
+- [Office of Fossil Energy and Carbon Management](https://apis.io/apis/office-of-fossil-energy-and-carbon-management/office-of-fossil-energy-and-carbon-management/) — The Office of Fossil Energy and Carbon Management (FECM) conducts research, development, demonstration, and deployment to minimize the environmental and…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03 
-- **Modified:** 2026-04-28 
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### Office of Fossil Energy and Carbon Management
+Authentication, trust centre, and vulnerability disclosure.
 
-The Office of Fossil Energy and Carbon Management (FECM) conducts
-research, development, demonstration, and deployment to minimize the
-environmental and climate impacts of fossil energy production and use and
-key industrial processes while working to achieve net-zero emissions
-across the U.S. economy. FECM is committed to improving the economic ...
+- [Office Of Fossil Energy And Carbon Management Domain Security](https://apis.io/security/office-of-fossil-energy-and-carbon-management/office-of-fossil-energy-and-carbon-management-domain-security/)
 
-**Human URL:** [https://www.energy.gov/fe](https://www.energy.gov/fe)
+#### Plans and pricing (1)
 
+Published plans, tiers and prices.
 
-#### Tags:
+- [Office Of Fossil Energy And Carbon Management Plans Pricing](https://apis.io/plans/office-of-fossil-energy-and-carbon-management/office-of-fossil-energy-and-carbon-management-plans-pricing/)
 
- - API
+#### Rate limits (1)
 
-#### Properties
+Published request limits.
 
-- [Documentation](https://www.energy.gov/fe)
+- [Office Of Fossil Energy And Carbon Management Rate Limits](https://apis.io/rate-limits/office-of-fossil-energy-and-carbon-management/office-of-fossil-energy-and-carbon-management-rate-limits/)
 
-## Maintainers
+#### FinOps (1)
 
-**FN:** Kin Lane
+What the API costs to run, by operation.
 
-**Email:** kin@apievangelist.com
+- [Office Of Fossil Energy And Carbon Management Finops](https://apis.io/finops/office-of-fossil-energy-and-carbon-management/office-of-fossil-energy-and-carbon-management-finops/)
 
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Blog](https://www.energy.gov/newsroom)
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Office of Fossil Energy and Carbon Management: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/office-of-fossil-energy-and-carbon-management/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
